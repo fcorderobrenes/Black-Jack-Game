@@ -1,0 +1,23 @@
+{
+  "name": "black-jack-game",
+  "version": "1.0.0",
+  "description": "js game",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcorderobrenes/Black-Jack-Game.git"
+  },
+  "author": "Fabricio CB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcorderobrenes/Black-Jack-Game/issues"
+  },
+  "homepage": "https://github.com/fcorderobrenes/Black-Jack-Game#readme"
+}
